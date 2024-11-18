@@ -1,4 +1,4 @@
-package GFG160;
+package GFG160.Day01;
 
 public class SecondLargest {
     public static void main(String[] args) {
@@ -26,5 +26,4 @@ public class SecondLargest {
         }
         return second_max;
     }
-
 }
