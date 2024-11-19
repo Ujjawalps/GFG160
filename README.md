@@ -27,3 +27,33 @@ The goal is to solve one problem daily, maintain an 80-day streak, and showcase 
 1. Clone this repository:  
    ```bash
    git clone https://github.com/Ujjawalps/GFG160.git
+   ```
+2. Navigate to the day's folder to view the problem statement and solution.
+
+
+## 🌟 Highlights  
+
+🔑 **Day 1: Arrays**  
+- **Problems Solved:**  
+  1. Second Largest Element  
+  2. Move All Zeroes  
+  3. Reverse Array  
+  4. Rotate Array  
+- **Focus Areas:** Edge cases, in-place operations, and 2-pointer techniques.
+- [Solution](./Day01)
+
+🔑 **Day 2: Next Permutation**  
+- **Task:** Find the lexicographically next permutation or the smallest order when no next exists.  
+- [Solution](./Day02)  
+
+---
+
+## 🏆 Progress  
+
+| Day  | Topic               | Problems Solved                                    | Solution                                         |
+|------|---------------------|----------------------------------------------------|-------------------------------------------------|
+| 1    | Arrays              | Second Largest, Move Zeroes, Reverse, Rotate       | [Code](./Day01)                                 |
+| 2    | Next Permutation    | Stay tuned! 🚀                                     | [Code](./Day01)                                 |
+
+
+
