@@ -6,8 +6,7 @@ This repository documents my journey of solving **160 problems** in **160 days**
 ---
 
 ## 📌 About the Challenge  
-The goal is to solve one problem daily, maintain an 80-day streak, and showcase progress on platforms like [X](https://twitter.com) and [LinkedIn](https://linkedin.com).  
-
+The goal is to solve one problem daily, maintain an 80-day streak, and showcase progress on platforms like [X](https://x.com/Ujjawal_p_s)
 ### **Rules of the Challenge**  
 1. Solve a problem every day.  
 2. Share a screenshot of the solution with hashtags:  
