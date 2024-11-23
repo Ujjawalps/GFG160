@@ -39,11 +39,11 @@ The goal is to solve one problem daily, maintain an 80-day streak, and showcase 
   3. Reverse Array  
   4. Rotate Array  
 - **Focus Areas:** Edge cases, in-place operations, and 2-pointer techniques.
-- [Solution](./Day01)
+- [Solution](./Day01_02_03_04)
 
 🔑 **Day 2: Next Permutation**  
 - **Task:** Find the lexicographically next permutation or the smallest order when no next exists.  
-- [Solution](./Day02)  
+- [Solution](./Day05)  
 
 ---
 
@@ -51,8 +51,8 @@ The goal is to solve one problem daily, maintain an 80-day streak, and showcase 
 
 | Day  | Topic               | Problems Solved                                    | Solution                                         |
 |------|---------------------|----------------------------------------------------|-------------------------------------------------|
-| 1    | Arrays              | Second Largest, Move Zeroes, Reverse, Rotate       | [Code](./Day01)                                 |
-| 2    | Next Permutation    | Stay tuned! 🚀                                     | [Code](./Day01)                                 |
+| 1    | Arrays              | Second Largest, Move Zeroes, Reverse, Rotate       | [Code](./Day01_02_03_04)                                 |
+| 2    | Next Permutation    | Stay tuned! 🚀                                     | [Code](./Day01_02_03_04)                                 |
 
 
 

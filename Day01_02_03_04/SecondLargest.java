@@ -1,4 +1,4 @@
-package GFG160.Day01;
+package GFG160.Day01_02_03_04;
 
 public class SecondLargest {
     public static void main(String[] args) {

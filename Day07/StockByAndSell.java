@@ -1,4 +1,4 @@
-package GFG160.Day04;
+package GFG160.Day07;
 
 public class StockByAndSell {
     public static void main(String[] args) {

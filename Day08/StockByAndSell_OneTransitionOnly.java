@@ -1,4 +1,4 @@
-package GFG160.Day05;
+package GFG160.Day08;
 
 public class StockByAndSell_OneTransitionOnly {
     public static void main(String[] args) {

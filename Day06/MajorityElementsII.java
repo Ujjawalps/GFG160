@@ -1,4 +1,4 @@
-package GFG160.Day03;
+package GFG160.Day06;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package GFG160.Day02;
+package GFG160.Day05;
 
 import java.util.Arrays;
 
